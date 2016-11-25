@@ -1,0 +1,18 @@
+1.To run the game python tetris.py 
+
+2.tetris.py imports all the classes files BlockClass,
+   BoardClass, GamePlayClass
+
+3. press 'a' to move block left
+
+4. press 'd' to move block right
+
+5. press 's' to rotate the block clock wise
+
+6. press <space> to instantly drop the block
+
+7. score increases 10 for each block, 100 for a completing a row 
+
+8. score displays in the terminal
+
+9. GameOver message is shown in the terminal after finishing the game
